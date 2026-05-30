@@ -1,0 +1,6 @@
+{
+  "name": "Weather App",
+  "description": "A modern, tech-savvy weather app showcasing real-time hyper-local forecasts and AI-powered weather analytics using GPS location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
